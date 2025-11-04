@@ -15,13 +15,14 @@
 
 ## Section 1 : Concepts de Base (10 questions)
 
+
+- **A)** Java Web Token
+- **B)** JSON Web Token
+- **C)** JavaScript Web Token
+- **D)** JSON Web Transport
+
 <details>
 <summary><h3>Question 1 : Que signifie JWT ?</h3></summary>
-
-**A)** Java Web Token
-**B)** JSON Web Token
-**C)** JavaScript Web Token
-**D)** JSON Web Transport
 
 **Réponse : B) JSON Web Token**
 
@@ -1223,4 +1224,5 @@ Chaque device a ses propres tokens. Logout laptop n'affecte pas phone.
 ---
 
 **Quiz complet JWT - 60 questions couvrant tous aspects.**
+
 
